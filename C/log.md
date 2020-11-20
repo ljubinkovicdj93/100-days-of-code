@@ -4,4 +4,4 @@
 
 **Thoughts:** Since I am just getting started with C, again after a loooong time, I've decided to take things slowly and go back to basics. The idea is to start with very simple projects and progress toward more complex ones.
 
-**Link to source code:** [Temperature Converter](./celsius_to_fahrenheit.c)
+**Link to source code:** [Temperature Converter](day_1/celsius_to_fahrenheit.c)
