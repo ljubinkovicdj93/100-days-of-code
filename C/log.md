@@ -17,8 +17,16 @@
 
 ### Day 3: Wednesday, November 25, 2020 at 15:05:46
 
-**Today's Progress:** Counting words and their lengths and displaying a histogram of it, both horizonta and vertical. 
+**Today's Progress:** Counting words and their lengths and displaying a histogram of it, both horizontal and vertical. 
 
 **Thoughts:** Practicing working with arrays...
 
-**Link to source code:** [Occurences](day_3/occurences.c)
+**Link to source code:** [Occurences Histogram](day_3/occurences.c)
+
+### Day 4: Thursday, November 26, 2020 at 00:42:35
+
+**Today's Progress:** Counting frequencies of different characters and displaying a histogram of it, both horizontal and vertical. 
+
+**Thoughts:** Practicing working with arrays and having fun with loops.
+
+**Link to source code:** [Frequencies Histogram](day_4/frequencies_histogram.c)
