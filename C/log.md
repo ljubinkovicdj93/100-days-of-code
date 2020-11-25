@@ -14,3 +14,11 @@
 **Thoughts:** This is a very simple version of a Hangman game. There is no graphics or anything, just 1 word to be guessed, always the same. In the future, I should find a much better, more user-friendly way to build this. Might even use some graphics :).
 
 **Link to source code:** [Hangman Game](day_2/hangman_game.c)
+
+### Day 3: Wednesday, November 25, 2020 at 15:05:46
+
+**Today's Progress:** Counting words and their lengths and displaying a histogram of it, both horizonta and vertical. 
+
+**Thoughts:** Practicing working with arrays...
+
+**Link to source code:** [Occurences](day_3/occurences.c)
